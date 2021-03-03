@@ -20,8 +20,6 @@ Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648
 
 - HTML
 - CSS
-- relative paths
-- Github pages
 
 ## Authors
 
